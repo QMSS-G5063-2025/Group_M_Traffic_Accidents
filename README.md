@@ -29,6 +29,6 @@ The purpose of this project is to:
 
 ---
 
-How to Run
+### How to Run
 1. Clone or download this repository
 2. Install required packages
